@@ -1,4 +1,4 @@
-package com.rapotor.datasource;
+package com.raptor.datasource;
 
 public class NodeAlreadyExistsException extends Exception {
 
