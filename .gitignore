@@ -1,0 +1,13 @@
+/target/
+.classpath
+.project
+.settings
+datasource-api/target/
+datasource-api/.settings/
+datasource-api/.classpath
+datasource-api/.project
+
+datasource-impl/target/
+datasource-impl/.settings/
+datasource-impl/.classpath
+datasource-impl/.project
